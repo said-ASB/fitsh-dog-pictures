@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.slectNames{
+    padding: 22px;
+    font-size: 32px;
+}
